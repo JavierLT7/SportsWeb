@@ -104,7 +104,7 @@ body {
 
 .Kings:hover {
     background-color: rgb(213, 208, 208);
-    color: rgb(87, 14, 14);
+    color: rgba(134, 7, 7, 0.952);
 }
 
 .background {
@@ -159,7 +159,7 @@ body {
     height: 137px;
     width: 172px;
     color: white;
-    background-color: rgba(134, 7, 7, 0.952);
+    background-color: rgba(0, 0, 0, 0.952);
 }
 
 .dropdown-content-.open > .liS { 

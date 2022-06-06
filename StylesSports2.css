@@ -68,7 +68,7 @@ body {
 }
 
 .buttonContact:hover {
-    background-color: rgb(87, 14, 14);
+    background-color: rgba(134, 7, 7, 0.952);
     color: white;
 }
 
@@ -87,7 +87,7 @@ body {
 }
 
 .buttonHelp:hover {
-    background-color: rgb(87, 14, 14);
+    background-color: rgba(134, 7, 7, 0.952);
     color: white;
 }
 
@@ -104,12 +104,12 @@ body {
 
 .Kings:hover {
     background-color: rgb(213, 208, 208);
-    color: rgb(87, 14, 14);
+    color: rgba(134, 7, 7, 0.952);
 }
 
 .background {
     background-color: rgb(213, 208, 208);
-    height: 245vh;
+    height: 220vh;
 }
 
 .KingSports {
@@ -136,7 +136,7 @@ body {
     height: 115px;
     width: 172px;
     color: white;
-    background-color: rgba(134, 7, 7, 0.952);
+    background-color: rgba(0, 0, 0, 0.952);
 }
 
 .dropdown-content-.open>.liS {
@@ -157,7 +157,7 @@ body {
 .dropdown-menu- .liS:hover {
     background-color: rgba(205, 28, 28, 0.718);
     cursor: pointer;
-    color: whitesmoke;
+    color: rgb(225, 160, 40);
 }
 
 
@@ -169,7 +169,7 @@ body {
 .my-svg {
     transform: rotate(0deg);
     transition: .3s transform;
-    color: rgb(225, 160, 40);
+    color: rgba(134, 7, 7, 0.952);
     margin-left: 7px;
     fill: currentColor;
 }
@@ -186,7 +186,8 @@ body {
 }
 
 .liS {
-    color: rgb(225, 160, 40);
+    color: whitesmoke;
+    
 }
 
 .divFooter {
@@ -426,7 +427,7 @@ body {
 }
 
 .textPhoto {
-    background-color: rgb(87, 14, 14);
+    background-color: rgba(134, 7, 7, 0.952);
     width: 330px;
     height: 50px;
     padding-top: 15px;
@@ -438,23 +439,37 @@ body {
     font-size: large;
 }
 .pSports {
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.952);
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
     margin: 0;
     padding-left: 650px;
 }
 .pSports2 {
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.952);
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
     margin: 0;
     padding-left: 620px;
 }
 .pSports3 {
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0.952);
     font-family: 'Raleway', sans-serif;
     font-size: 60px;
     margin: 0;
     padding-left: 670px;
+}
+.divFooter {
+    position: relative;
+}
+.footerSports {
+    font-family: 'Raleway', sans-serif;
+}
+
+.pFooter {
+    color: rgb(11, 11, 11);
+    margin-top: 129px;
+    position: absolute;
+    margin-left: 575px;
+    top: 0px;
 }
