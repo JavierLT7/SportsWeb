@@ -39,6 +39,7 @@ body{
     color: white;
     font-family: "Fira Sans", Helvetica, Arial, sans-serif;
     font-size: 19px;
+    cursor: pointer;
 }
     
 .kobe:hover{
@@ -127,6 +128,7 @@ body{
     padding: 9px;
     font-family: "Fira Sans", Helvetica, Arial, sans-serif;
     height: 10vh;
+    cursor: pointer;
 }
 .buttonHome:hover {
     background-color:#452161; 
@@ -142,6 +144,7 @@ body{
     height: 10vh;
     float: right;
     width: 200px;    
+    cursor: pointer;
     
 }
 .buttonContact:hover {
@@ -160,6 +163,7 @@ body{
     width: 200px;
     margin-left: 4px;
     margin-right: 20px;
+    cursor: pointer;
 }
 .buttonHelp:hover {
     background-color:#452161; 
@@ -216,6 +220,7 @@ body{
     width: 500px;
     height: 70px;
     font-size: large;
+    cursor: auto;
 }
 .F-Title{
    color: white;
@@ -228,6 +233,7 @@ body{
     width: 500px;
     height: 70px;
     font-size: large;
+    cursor: auto;
 }
 .C-Player{
     position: absolute;
@@ -236,6 +242,7 @@ body{
     width: 500px;
     height: 70px;
     font-size: large;
+    cursor: auto;
 }
 .D-Player{
     border-radius: 3px;
@@ -245,6 +252,7 @@ body{
     width: 500px;
     height: 100px;
     font-size: large;
+    cursor: auto;
 }
 .E-Player{
     border-radius: 3px;

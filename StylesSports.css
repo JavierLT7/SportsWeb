@@ -47,6 +47,7 @@ body {
     padding: 9px;
     font-family: "Fira Sans", Helvetica, Arial, sans-serif;
     height: 12vh;
+    cursor: pointer;
 }
 
 .buttonHome:hover {
@@ -64,6 +65,7 @@ body {
     height: 12vh;
     float: right;
     width: 130px;
+    cursor: pointer;
 
 }
 
@@ -84,6 +86,7 @@ body {
     width: 120px;
     margin-left: 4px;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 .buttonHelp:hover {
@@ -100,6 +103,7 @@ body {
     padding: 9px;
     font-family: "Fira Sans", Helvetica, Arial, sans-serif;
     height: 12vh;
+    cursor: pointer;
 }
 
 .Kings:hover {
@@ -195,6 +199,7 @@ body {
     color: rgba(134, 7, 7, 0.952);
     margin-left: 7px;
     fill: currentColor;
+    cursor: ns-resize;
 }
 
 .my-svg.open {
@@ -228,4 +233,10 @@ body {
     display: inline-block;
     position: relative;
 
+}
+.pHighL {
+    padding-left: 540px;
+    color: rgba(136, 28, 28, 0.718);
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
 }
