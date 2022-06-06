@@ -198,3 +198,74 @@ body{
     right: 400px;
     top: 700px;
 }
+
+/* Estilo de la pagina de contacto*/
+.A-form{
+    position: absolute;
+    text-align: center;
+    left: 650px;
+    top: 200px;
+    width: 600px;
+    height: 600px;
+    background-color: #161818;
+}
+.A-Player{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    width: 500px;
+    height: 70px;
+    font-size: large;
+}
+.F-Title{
+   color: white;
+}
+
+.B-Player{
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    width: 500px;
+    height: 70px;
+    font-size: large;
+}
+.C-Player{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+    width: 500px;
+    height: 70px;
+    font-size: large;
+}
+.D-Player{
+    border-radius: 3px;
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    width: 500px;
+    height: 100px;
+    font-size: large;
+}
+.E-Player{
+    border-radius: 3px;
+    position: absolute;
+    top: 500px;
+    left: 210px;
+    width: 200px;
+    height: 30px;
+}
+.Im-johan{
+    position: absolute;
+    width: 500px;
+    top: 240px;
+    left: 60px;
+}
+.Im-kobe{
+    position: absolute;
+    width: 500px;
+    top: 240px;
+    right: 80px;
+}
+.Form-Body{
+    background-color: black;
+}
