@@ -13,6 +13,7 @@ body{
 .A-marker{
     border-bottom: none;
     color: white;
+    text-decoration: none;
 }
 
 .bodymod{
